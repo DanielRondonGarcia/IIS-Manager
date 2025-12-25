@@ -1,0 +1,5 @@
+{
+  "name": "IIS Manager Dashboard",
+  "description": "A professional management interface for IIS Sites and Application Pools, allowing administrators to monitor topology, restart sites, and recycle pools.",
+  "requestFramePermissions": []
+}
